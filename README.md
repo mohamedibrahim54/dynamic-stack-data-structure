@@ -1,5 +1,5 @@
 # dynamic-stack-data-structure
- Dynamic memory allocation implementation of a stack data structure in in ANSII C.
+ Dynamic memory allocation implementation of a stack data structure in in ANSI C.
  It is not simple dynamic stack, it is data block-based dynamic stack.
  # Features:
  - create stack and allocate memory for  integer data block to work on it.
