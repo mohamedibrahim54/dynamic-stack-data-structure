@@ -11,7 +11,7 @@
  - display Stack values from top to bottom.
  - implement singly linked list to link data blocks together.
 
-#Files:
+# Files:
 - blocked_stack_int.c: implementation of data block-based dynamic stack.
 - blocked_stack_int.h: block-based dynamic stack header file.
 - demo_blocked_stack_int: a demo code.
