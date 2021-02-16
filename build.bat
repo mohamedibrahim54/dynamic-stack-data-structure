@@ -1,0 +1,1 @@
+gcc demo_blocked_stack_int.c blocked_stack_int.c -o demo_stack
